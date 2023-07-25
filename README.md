@@ -7,4 +7,3 @@ I'm Volodymyr from Ukraine, and I do content on Java Development. I really enjoy
 * 💻 PostgreSQL, MySQL
 * 💻 English language
 
-## Examples of Work
