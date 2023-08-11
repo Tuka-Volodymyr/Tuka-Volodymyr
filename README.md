@@ -3,7 +3,8 @@ I'm Volodymyr from Ukraine, and I do content on Java Development. I really enjoy
 
 ## Skills and Experience
 * 💻 Java Core, OOP, API
-* 💻 Spring Boot, Secutity, Data
-* 💻 PostgreSQL, MySQL
+* 💻 Spring Boot, Secutity, Data, MVC
+* 💻 SQL, PostgreSQL, MySQL
+* 💻 ACID, SOLID, TDD
 * 💻 English language
 
