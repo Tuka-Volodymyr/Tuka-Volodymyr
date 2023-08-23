@@ -6,5 +6,6 @@ I'm Volodymyr from Ukraine, and I do content on Java Development. I really enjoy
 * 💻 Spring Boot, Secutity, Data, MVC, Web
 * 💻 SQL, PostgreSQL, MySQL, JDBC
 * 💻 ACID, SOLID, TDD
+* 💻 JUnit, Mockito
 * 💻 English language
 
