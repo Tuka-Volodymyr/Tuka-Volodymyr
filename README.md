@@ -1,11 +1,13 @@
 # Volodymyr Tuka
-I'm Volodymyr from Ukraine, and I do content on Java Development. I really enjoy learning Java and framework Spring. 
+I'm Volodymyr from Ukraine, and I do content on Java Development.
 
 ## Skills and Experience
-* 💻 Java Core, OOP, API
-* 💻 Spring Boot, Secutity, Data, MVC, Web
-* 💻 SQL, PostgreSQL, MySQL, JDBC
-* 💻 ACID, SOLID, TDD
-* 💻 JUnit, Mockito
-* 💻 English language
+* 💻 Java (Core, Collections, Stream API, OOP)
+* 💻 Spring (Boot, MVC, Data, Security, Web, Mail, Session)
+* 💻 JPA (Hibernate)
+* 💻 Microservices
+* 💻 SQL (PostgreSQL, MySQL)
+* 💻 JUnit, Mockito, TDD
+* 💻 ACID, SOLID
+* 💻 English language (B1)
 
